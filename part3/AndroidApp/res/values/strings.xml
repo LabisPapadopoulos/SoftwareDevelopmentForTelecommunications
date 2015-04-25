@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidApp</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_gps">GPS Info</string>
+    <string name="latitude">Latitude: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="altitude">Altitude: </string>
+    <string name="monitoring">Monitoring: </string>
+    <string name="title_activity_battery">Battery state</string>
+    <string name="batteryLevel">Battery Level: </string>
+    <string name="chargingState">Charging State: </string>
+    <string name="title_activity_general_info">General Info</string>
+    <string name="androidId">Android ID: </string>
+    <string name="model">Model: </string>
+    <string name="manufacturer">Manufacturer: </string>
+    <string name="sdkVersion">SDK Version: </string>
+    <string name="sendData">Send Data: </string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="acCharger">AC charger</string>
+    <string name="usbPort">USB port</string>
+    <string name="battery">Battery</string>
+    
+</resources>

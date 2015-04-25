@@ -1,0 +1,885 @@
+Nov 24, 2012 8:39:55 PM gr.uoa.di.std09112.std08169.k23.MasterThread <init>
+INFO: Sleep time: 500, K : 8, C : 5, X : 50.0
+Nov 24, 2012 8:39:55 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:55 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: Xekinise nhma gia to interface: lo
+Nov 24, 2012 8:39:55 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:55 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:55 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: Xekinise nhma gia to interface: wlan0
+Nov 24, 2012 8:39:55 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: Xekinise nhma gia to interface: eth0
+Nov 24, 2012 8:39:55 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:39:55 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:56 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 3
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:57 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 4
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 0
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:39:58 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:59 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:59 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:59 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:59 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 1
+Nov 24, 2012 8:39:59 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:39:59 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:59 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:39:59 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:00 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:00 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:00 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:00 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 2
+Nov 24, 2012 8:40:00 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:00 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:00 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:00 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:01 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:01 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:01 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:01 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 3
+Nov 24, 2012 8:40:01 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:01 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:01 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:01 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:02 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:02 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:02 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:02 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 4
+Nov 24, 2012 8:40:02 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:02 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:02 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:02 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:03 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:03 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:03 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:03 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 6, Internal Loop is: 0
+Nov 24, 2012 8:40:03 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: Stamatise to nhma : lo
+Nov 24, 2012 8:40:03 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:03 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:03 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:04 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:04 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:04 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:04 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:04 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:04 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:04 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:04 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:05 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:05 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:05 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:05 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:05 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 3
+Nov 24, 2012 8:40:05 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:05 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:05 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:06 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 4
+Nov 24, 2012 8:40:06 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:06 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:06 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:06 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 0
+Nov 24, 2012 8:40:06 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:06 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:06 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:07 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:07 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:07 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 1
+Nov 24, 2012 8:40:07 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:07 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:07 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:08 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:08 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:08 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 2
+Nov 24, 2012 8:40:08 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: Xekinise nhma gia to interface: lo
+Nov 24, 2012 8:40:08 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:08 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:08 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:08 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:09 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 3
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:10 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 4
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 0
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:11 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:12 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:12 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:12 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:12 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 1
+Nov 24, 2012 8:40:12 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:12 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:12 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:12 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:13 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:13 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:13 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:13 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 2
+Nov 24, 2012 8:40:13 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:13 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:13 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:13 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:14 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:14 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:14 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:14 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 3
+Nov 24, 2012 8:40:14 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:14 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:14 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:14 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:15 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:15 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:15 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:15 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 4
+Nov 24, 2012 8:40:15 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:15 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:15 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:15 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:16 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:16 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:16 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:16 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 6, Internal Loop is: 0
+Nov 24, 2012 8:40:16 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:16 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:16 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:16 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:17 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:17 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:17 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:17 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:17 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:17 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:17 PM gr.uoa.di.std09112.std08169.k23.AccessPoint getAccessPoints
+WARNING: Provlima me tin iwlist 254 wlan0
+Nov 24, 2012 8:40:18 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 6, Internal Loop is: 1
+Nov 24, 2012 8:40:18 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: Stamatise to nhma : wlan0
+Nov 24, 2012 8:40:18 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:18 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:18 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:18 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:18 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:18 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:18 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:19 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:19 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:19 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:19 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:19 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:19 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:19 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:19 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:20 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 3
+Nov 24, 2012 8:40:20 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:20 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:20 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:20 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 4
+Nov 24, 2012 8:40:20 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:20 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:20 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:21 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 0
+Nov 24, 2012 8:40:21 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:21 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:21 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:21 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:21 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:22 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 1
+Nov 24, 2012 8:40:22 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:22 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:22 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:22 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:22 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:23 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 2
+Nov 24, 2012 8:40:23 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:23 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:23 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:23 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:23 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:24 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 3
+Nov 24, 2012 8:40:24 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:24 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:24 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:24 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:24 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 4
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: Xekinise nhma gia to interface: wlan0
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Den vrika kanena asurmato interface, opote den tha skanarw gia AccessPoints.
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:25 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:26 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 3
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 8, Internal Loop is: 4
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:27 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:28 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 0
+Nov 24, 2012 8:40:28 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:28 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:28 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:28 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:28 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:28 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:28 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:29 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 1
+Nov 24, 2012 8:40:29 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:29 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:29 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:29 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:29 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:29 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:29 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:30 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 2
+Nov 24, 2012 8:40:30 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:30 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:30 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:30 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:30 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:30 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:30 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:31 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 3
+Nov 24, 2012 8:40:31 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:31 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:31 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:31 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:31 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:31 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:31 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:32 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 7, Internal Loop is: 4
+Nov 24, 2012 8:40:32 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:32 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:32 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:32 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:32 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:32 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:32 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:33 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 6, Internal Loop is: 0
+Nov 24, 2012 8:40:33 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:33 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:33 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:33 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:33 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:33 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:33 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:34 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:34 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:34 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:34 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 6, Internal Loop is: 1
+Nov 24, 2012 8:40:34 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:34 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:34 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:34 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:35 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:35 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:35 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:35 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:35 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:35 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:36 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 6, Internal Loop is: 2
+Nov 24, 2012 8:40:36 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:36 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:36 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:36 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:36 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:36 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:36 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:37 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:37 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:37 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:37 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 6, Internal Loop is: 3
+Nov 24, 2012 8:40:37 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:37 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:37 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:37 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:38 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:38 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:38 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:38 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:38 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:38 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:39 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 6, Internal Loop is: 4
+Nov 24, 2012 8:40:39 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:39 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:39 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:39 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:39 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:39 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:39 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:40 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:40 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:40 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:40 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 5, Internal Loop is: 0
+Nov 24, 2012 8:40:40 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:40 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:40 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:40 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:41 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:41 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:41 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:41 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:41 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:41 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:42 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:42 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:42 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:42 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 5, Internal Loop is: 1
+Nov 24, 2012 8:40:42 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:42 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:42 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:42 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:43 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:43 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:43 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:43 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:43 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:43 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:44 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 3
+Nov 24, 2012 8:40:44 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:44 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:44 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 5, Internal Loop is: 2
+Nov 24, 2012 8:40:44 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:44 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 4
+Nov 24, 2012 8:40:44 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:44 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:45 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:45 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:45 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:45 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:46 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:46 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:46 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:46 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 5, Internal Loop is: 3
+Nov 24, 2012 8:40:46 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:46 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:46 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:47 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:47 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:47 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:47 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:47 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:47 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:48 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:48 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:48 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:48 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:48 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 5, Internal Loop is: 4
+Nov 24, 2012 8:40:48 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:48 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:48 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:49 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:49 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:49 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:49 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:49 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:49 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:50 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 1
+Nov 24, 2012 8:40:50 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:50 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:50 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 2
+Nov 24, 2012 8:40:50 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+INFO: State is: 4, Internal Loop is: 0
+Nov 24, 2012 8:40:50 PM gr.uoa.di.std09112.std08169.k23.MasterThread run
+WARNING: Vrika mono ena asurmato interface kai tha kanei skanarisma twn access points kai tis kartas diktuou
+Nov 24, 2012 8:40:50 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:50 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 0
+Nov 24, 2012 8:40:51 PM gr.uoa.di.std09112.std08169.k23.InterfaceThread run
+INFO: State is: 8, Internal Loop is: 3
+./run.sh: line 2:  2817 Killed                  java -cp '/home/labis/Desktop/AnaptuxhLogismikou/dist/AnaptuxhLogismikou.jar' gr.uoa.di.std09112.std08169.k23.MasterThread LabisDionusia.properties

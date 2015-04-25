@@ -1,0 +1,6984 @@
+***** NetworkInterfaces *****
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 1251464.5 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 6.8412016E7 kbps
+Current bandwidth ratio: 1.4252504E8%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 5.1039577 kbps
+Current bandwidth ratio: 10.6332445%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 53/70
+Signal Level: -57 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 6.96875 kbps
+Current bandwidth ratio: 14.5182295%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.9356288 kbps
+Current bandwidth ratio: 1.9492265%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 1.0080645 kbps
+Current bandwidth ratio: 2.1001344%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 46.471172 kbps
+Current bandwidth ratio: 96.81494%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 50/70
+Signal Level: -60 dBm
+Noise Level: -256 dBm
+Discarded Packets: 6
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 13.206845 kbps
+Current bandwidth ratio: 27.514261%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 10.921875 kbps
+Current bandwidth ratio: 22.753906%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 53/70
+Signal Level: -57 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 52/70
+Signal Level: -58 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 3933174.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 6.8029323 kbps
+Current bandwidth ratio: 14.172775%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 90.89633 kbps
+Current bandwidth ratio: 189.36736%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 10.965738 kbps
+Current bandwidth ratio: 22.84529%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 57/70
+Signal Level: -53 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 57/70
+Signal Level: -53 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 57/70
+Signal Level: -53 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 57/70
+Signal Level: -53 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.9300595 kbps
+Current bandwidth ratio: 1.937624%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 48.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 57/70
+Signal Level: -53 dBm
+Noise Level: -256 dBm
+Discarded Packets: 7
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -53 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 48.177082 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 26.302605 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 2.8734992E8 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: null
+Essid: null
+Channel: 0
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: null
+Signal Level: 0 dBm
+Noise Level: 0 dBm
+Discarded Packets: 0
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: null
+Essid: null
+Channel: 0
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: null
+Signal Level: 0 dBm
+Noise Level: 0 dBm
+Discarded Packets: 0
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -63 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -85 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -36 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: null
+Essid: null
+Channel: 0
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: null
+Signal Level: 0 dBm
+Noise Level: 0 dBm
+Discarded Packets: 0
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -63 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -85 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -36 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 1.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 57/70
+Signal Level: -53 dBm
+Noise Level: -256 dBm
+Discarded Packets: 0
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 1.0 kbps
+Current traffic rate: 16.498255 kbps
+Current bandwidth ratio: 1649.8254%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 57/70
+Signal Level: -53 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 1.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 58/70
+Signal Level: -52 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 1.0 kbps
+Current traffic rate: 7.5639906 kbps
+Current bandwidth ratio: 756.39905%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 57/70
+Signal Level: -53 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 1.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 58/70
+Signal Level: -52 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 37.074146 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: null
+Max traffic rate: 1.0 kbps
+Current traffic rate: 52.457584 kbps
+Current bandwidth ratio: 5245.7583%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: null
+Max traffic rate: 1.0 kbps
+Current traffic rate: 25.782803 kbps
+Current bandwidth ratio: 2578.2803%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 26.408451 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 39.837547 kbps
+Current bandwidth ratio: 165.98978%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: null
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 11.46875 kbps
+Current bandwidth ratio: 47.786457%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 15.826512 kbps
+Current bandwidth ratio: 65.9438%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 9.22309 kbps
+Current bandwidth ratio: 38.429543%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 1
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 8.921875 kbps
+Current bandwidth ratio: 37.17448%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 23.71763 kbps
+Current bandwidth ratio: 98.823456%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 51/70
+Signal Level: -59 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 54.54771 kbps
+Current bandwidth ratio: 227.28212%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 51/70
+Signal Level: -59 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 2.0583832 kbps
+Current bandwidth ratio: 8.576596%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 3.0814245 kbps
+Current bandwidth ratio: 12.839269%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 36.0 kbps
+Current traffic rate: 3.3926795 kbps
+Current bandwidth ratio: 9.424109%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 6.723108 kbps
+Current bandwidth ratio: 28.012949%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 1.369522 kbps
+Current bandwidth ratio: 5.7063413%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 1.680777 kbps
+Current bandwidth ratio: 7.0032372%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: GiannisS
+MAC Address: 00:1D:1C:9E:D1:94
+Channel: 3
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: OTE166568
+MAC Address: 4C:17:EB:16:65:69
+Channel: 6
+Mode: Master
+Signal Level: -82 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.99601597 kbps
+Current bandwidth ratio: 4.1500664%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: vea
+MAC Address: 00:1C:A2:B3:62:E9
+Channel: 9
+Mode: Master
+Signal Level: -90 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -90 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: Oxygen-10896
+MAC Address: 00:1D:1C:3C:63:20
+Channel: 5
+Mode: Master
+Signal Level: -88 dBm
+==============================
+ESSID: HTC Portable Hotspot
+MAC Address: A8:26:D9:96:0D:16
+Channel: 1
+Mode: Master
+Signal Level: -47 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 51/70
+Signal Level: -59 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 3.3994513 kbps
+Current bandwidth ratio: 14.16438%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 3.3994513 kbps
+Current bandwidth ratio: 14.16438%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 3.3994513 kbps
+Current bandwidth ratio: 14.16438%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 3.3994513 kbps
+Current bandwidth ratio: 14.16438%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 3.3994513 kbps
+Current bandwidth ratio: 14.16438%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: maurita
+MAC Address: 00:13:33:81:FE:C3
+Channel: 6
+Mode: Master
+Signal Level: -78 dBm
+==============================
+ESSID: pap6163
+MAC Address: 00:13:33:0B:88:4E
+Channel: 6
+Mode: Master
+Signal Level: -80 dBm
+==============================
+ESSID: THEO-Lan
+MAC Address: 00:22:3F:86:39:06
+Channel: 6
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: hol - NetFasteR WLAN 3
+MAC Address: 00:05:59:4A:EA:4D
+Channel: 1
+Mode: Master
+Signal Level: -92 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -89 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: maurita
+MAC Address: 00:13:33:81:FE:C3
+Channel: 6
+Mode: Master
+Signal Level: -78 dBm
+==============================
+ESSID: pap6163
+MAC Address: 00:13:33:0B:88:4E
+Channel: 6
+Mode: Master
+Signal Level: -80 dBm
+==============================
+ESSID: THEO-Lan
+MAC Address: 00:22:3F:86:39:06
+Channel: 6
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: hol - NetFasteR WLAN 3
+MAC Address: 00:05:59:4A:EA:4D
+Channel: 1
+Mode: Master
+Signal Level: -92 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -89 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: maurita
+MAC Address: 00:13:33:81:FE:C3
+Channel: 6
+Mode: Master
+Signal Level: -78 dBm
+==============================
+ESSID: pap6163
+MAC Address: 00:13:33:0B:88:4E
+Channel: 6
+Mode: Master
+Signal Level: -80 dBm
+==============================
+ESSID: THEO-Lan
+MAC Address: 00:22:3F:86:39:06
+Channel: 6
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: hol - NetFasteR WLAN 3
+MAC Address: 00:05:59:4A:EA:4D
+Channel: 1
+Mode: Master
+Signal Level: -92 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -89 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 54/70
+Signal Level: -56 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: maurita
+MAC Address: 00:13:33:81:FE:C3
+Channel: 6
+Mode: Master
+Signal Level: -78 dBm
+==============================
+ESSID: pap6163
+MAC Address: 00:13:33:0B:88:4E
+Channel: 6
+Mode: Master
+Signal Level: -80 dBm
+==============================
+ESSID: THEO-Lan
+MAC Address: 00:22:3F:86:39:06
+Channel: 6
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: hol - NetFasteR WLAN 3
+MAC Address: 00:05:59:4A:EA:4D
+Channel: 1
+Mode: Master
+Signal Level: -92 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -89 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 55/70
+Signal Level: -55 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: maurita
+MAC Address: 00:13:33:81:FE:C3
+Channel: 6
+Mode: Master
+Signal Level: -78 dBm
+==============================
+ESSID: pap6163
+MAC Address: 00:13:33:0B:88:4E
+Channel: 6
+Mode: Master
+Signal Level: -80 dBm
+==============================
+ESSID: THEO-Lan
+MAC Address: 00:22:3F:86:39:06
+Channel: 6
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: hol - NetFasteR WLAN 3
+MAC Address: 00:05:59:4A:EA:4D
+Channel: 1
+Mode: Master
+Signal Level: -92 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -89 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.9356288 kbps
+Current bandwidth ratio: 3.898453%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: maurita
+MAC Address: 00:13:33:81:FE:C3
+Channel: 6
+Mode: Master
+Signal Level: -78 dBm
+==============================
+ESSID: pap6163
+MAC Address: 00:13:33:0B:88:4E
+Channel: 6
+Mode: Master
+Signal Level: -80 dBm
+==============================
+ESSID: THEO-Lan
+MAC Address: 00:22:3F:86:39:06
+Channel: 6
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: hol - NetFasteR WLAN 3
+MAC Address: 00:05:59:4A:EA:4D
+Channel: 1
+Mode: Master
+Signal Level: -92 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -89 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: maurita
+MAC Address: 00:13:33:81:FE:C3
+Channel: 6
+Mode: Master
+Signal Level: -78 dBm
+==============================
+ESSID: pap6163
+MAC Address: 00:13:33:0B:88:4E
+Channel: 6
+Mode: Master
+Signal Level: -80 dBm
+==============================
+ESSID: THEO-Lan
+MAC Address: 00:22:3F:86:39:06
+Channel: 6
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: hol - NetFasteR WLAN 3
+MAC Address: 00:05:59:4A:EA:4D
+Channel: 1
+Mode: Master
+Signal Level: -92 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -89 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.9375 kbps
+Current bandwidth ratio: 3.90625%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: maurita
+MAC Address: 00:13:33:81:FE:C3
+Channel: 6
+Mode: Master
+Signal Level: -78 dBm
+==============================
+ESSID: pap6163
+MAC Address: 00:13:33:0B:88:4E
+Channel: 6
+Mode: Master
+Signal Level: -80 dBm
+==============================
+ESSID: THEO-Lan
+MAC Address: 00:22:3F:86:39:06
+Channel: 6
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: hol - NetFasteR WLAN 3
+MAC Address: 00:05:59:4A:EA:4D
+Channel: 1
+Mode: Master
+Signal Level: -92 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -89 dBm
+==============================
+
+
+***** NetworkInterfaces *****
+Interface name: lo
+Mac address: null
+Ip address: /127.0.0.1
+Netmask: /255.0.0.0
+Network address: /127.0.0.0
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 0.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+Interface name: wlan0
+Mac address: ec:55:f9:21:b3:49
+Ip address: /192.168.1.13
+Netmask: /255.255.255.0
+Network address: /192.168.1.0
+Broadcast address: /192.168.1.255
+Default gateway: /192.168.1.1
+Max traffic rate: 24.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+Base Station MacAddress: 00:13:33:82:48:0D
+Essid: int main (int argc, char **argv)
+Channel: 6
+Mode: Managed
+TransmissionPower: 19.0 dBm
+Link Quality: 56/70
+Signal Level: -54 dBm
+Noise Level: -256 dBm
+Discarded Packets: 2
+==============================
+Interface name: eth0
+Mac address: e8:9a:8f:1f:f9:53
+Ip address: null
+Netmask: null
+Network address: null
+Broadcast address: null
+Default gateway: /192.168.1.1
+Max traffic rate: 10240.0 kbps
+Current traffic rate: 0.0 kbps
+Current bandwidth ratio: 0.0%
+Packet error rate: 0.0%
+==============================
+
+
+***** AccessPoints *****
+ESSID: maurita
+MAC Address: 00:13:33:81:FE:C3
+Channel: 6
+Mode: Master
+Signal Level: -78 dBm
+==============================
+ESSID: pap6163
+MAC Address: 00:13:33:0B:88:4E
+Channel: 6
+Mode: Master
+Signal Level: -80 dBm
+==============================
+ESSID: THEO-Lan
+MAC Address: 00:22:3F:86:39:06
+Channel: 6
+Mode: Master
+Signal Level: -89 dBm
+==============================
+ESSID: int main (int argc, char **argv)
+MAC Address: 00:13:33:82:48:0D
+Channel: 6
+Mode: Master
+Signal Level: -54 dBm
+==============================
+ESSID: ONTelecoms
+MAC Address: 00:1C:A2:AC:A2:1D
+Channel: 9
+Mode: Master
+Signal Level: -91 dBm
+==============================
+ESSID: hol - NetFasteR WLAN 3
+MAC Address: 00:05:59:4A:EA:4D
+Channel: 1
+Mode: Master
+Signal Level: -92 dBm
+==============================
+ESSID: Wind WiFi ydegZW
+MAC Address: B0:75:D5:8F:E1:DF
+Channel: 11
+Mode: Master
+Signal Level: -89 dBm
+==============================
+
+
